@@ -28,7 +28,6 @@ namespace Test_variant4_task1
             {
                 Console.Write("Введите " + (i + 1) + "-е число: ");
                 enteredNumbers[i] = float.Parse(Console.ReadLine());
-
             }
 
             //Вычисление суммы положительных и отрицательных чисел, 
